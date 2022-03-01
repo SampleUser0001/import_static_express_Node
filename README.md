@@ -1,0 +1,2 @@
+# import_static_express_Node
+expressでstaticファイルをimportする
